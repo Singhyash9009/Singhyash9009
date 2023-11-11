@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhyash9009&label=Profile%20views&color=0e75b6&style=flat" alt="singhyash9009" /> </p>
 
@@ -8,14 +7,18 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Singhyash9009/GIT-HUB](https://github.com/Singhyash9009/GIT-HUB)
+
 - 💬 Ask me about **Pyhton,MySQL,Machine Learning,Tableau**
 
 - 📫 How to reach me **singhyash9009@gmail.com**
 
+- 📄 Know about my experiences [https://yash-singh-resume.streamlit.app](https://yash-singh-resume.streamlit.app)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/yash-singh-02b7341a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yash-singh-02b7341a3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/singhyash2222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/singhyash2222" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
