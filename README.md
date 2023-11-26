@@ -43,6 +43,7 @@
 ---
 ### :fire: Projects:
 - <a href="https://github.com/Singhyash9009/ML_Project_Student_Perfomance">Student Perfomance Regression Model</a>
+- <a href="https://github.com/Singhyash9009/Web_Summary_App">Web Summary Application</a>
 - <a href="https://github.com/Singhyash9009/GIT-HUB/tree/main/Capstone%20Amazon%20Project">Amazon Sentimental Analysis</a>
 - <a href="https://github.com/Singhyash9009/GIT-HUB/blob/main/MINI%20PROJECT/MINI%20PROJECT%20%202%20(CLASSIFICATION%20MODEL)%20YASH%20SINGH.ipynb">House Grade Prediction</a>
 - <a href="https://github.com/Singhyash9009/Digital_Resume_CV">Digital Resume Creater</a>
