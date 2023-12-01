@@ -50,7 +50,6 @@
 ---
 ### 📄 Dashboards:
 - <a href="https://public.tableau.com/app/profile/yash.singh8622/viz/SuperstoreSalesDashboard_17013505757220/Dashboard?publish=yes">Superstore Sales Dashboard</a>
-- <a href="https://drive.google.com/file/d/1_rhFl5fgwqPvXj_UFq2UjvRW7BHtojIV/view?usp=sharing">HR Analytics Dashboard</a>
 ---
 
 <h3 align="left">Languages and Tools:</h3>
