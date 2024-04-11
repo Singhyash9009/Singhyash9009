@@ -47,6 +47,7 @@
 - <a href="https://github.com/Singhyash9009/Capstone_Amazon_Project">Amazon Sentimental Analysis</a>
 - <a href="https://github.com/Singhyash9009/GIT-HUB/blob/main/MINI%20PROJECT/MINI%20PROJECT%20%202%20(CLASSIFICATION%20MODEL)%20YASH%20SINGH.ipynb">House Grade Prediction</a>
 - <a href="https://github.com/Singhyash9009/Digital_Resume_CV">Digital Resume Creater</a>
+- <a href="https://github.com/Singhyash9009/Practice_Interview_Data>Practice and Interview Questions<a/>
 ---
 ### 📄 Dashboards:
 - <a href="https://public.tableau.com/app/profile/yash.singh8622/viz/SuperstoreSalesDashboard_17013505757220/Dashboard?publish=yes">Superstore Sales Dashboard</a>
