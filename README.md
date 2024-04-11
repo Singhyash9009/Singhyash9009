@@ -26,7 +26,7 @@
 
 - 💞️ I’m looking to collaborate on Data Science Projects
 
-- 👨‍💻 All of my projects are available at [https://github.com/Singhyash9009](https://github.com/Singhyash9009)
+- 👨‍💻 All of my projects are available at [https://github.com/Singhyash9009](https://github.com/Singhyash9009?tab=repositories)
 
 - 💬 Ask me about **Pyhton,MySQL,Machine Learning,Tableau**
 
