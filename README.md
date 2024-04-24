@@ -41,7 +41,7 @@
 </p>
 
 ---
-### 🎯: Achievements:
+### 🎯 Achievements:
 <a href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzIyIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNTA3MTUyN18xNzEzOTQ4Mzg1LnBuZyIsInVzZXJuYW1lIjoiWWFzaCBTaW5naCJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4211%2FPower-BI-for-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1302965749192390704&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVdzHKSU0v9Mgz9kwCAFfny0olAAAA"><img src="https://github.com/Singhyash9009/Singhyash9009/blob/main/assets/Power%20BI%20Certificate_page.jpg" alt="Power BI" width="100"></a>
 
 <a href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzIyIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNTA3MTUyN18xNzEzOTQ4Mzg1LnBuZyIsInVzZXJuYW1lIjoiWWFzaCBTaW5naCJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4211%2FPower-BI-for-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1302965749192390704&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVdzHKSU0v9Mgz9kwCAFfny0olAAAA">**Power BI Certification**</a>
