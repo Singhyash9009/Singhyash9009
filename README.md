@@ -49,6 +49,7 @@
 <a href="https://www.credly.com/badges/73ed61d5-5e98-411f-9d50-1813977f824e/linked_in_profile"><img src="https://github.com/Singhyash9009/Singhyash9009/blob/main/assets/Data_Analytics_Essentials_Badge.jpg" alt="Power BI" width="100"></a>
 
 <a href="https://www.credly.com/badges/73ed61d5-5e98-411f-9d50-1813977f824e/linked_in_profile">**Data Analytics Certification**</a>
+
 ---
 ### :fire: Projects:
 - <a href="https://github.com/Singhyash9009/ML_Project_Student_Perfomance">Student Perfomance Regression Model</a>
