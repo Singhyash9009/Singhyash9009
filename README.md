@@ -41,9 +41,15 @@
 </p>
 
 ---
-### :fire: Achievements:
-  <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Computer man" width="100"/>
+### :🎯: Achievements:
+<a href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzIyIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNTA3MTUyN18xNzEzOTQ4Mzg1LnBuZyIsInVzZXJuYW1lIjoiWWFzaCBTaW5naCJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4211%2FPower-BI-for-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1302965749192390704&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVdzHKSU0v9Mgz9kwCAFfny0olAAAA"><img src="https://github.com/Singhyash9009/Singhyash9009/blob/main/assets/Power%20BI%20Certificate_page.jpg" alt="Power BI" width="100"></a>
 
+<a href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzIyIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNTA3MTUyN18xNzEzOTQ4Mzg1LnBuZyIsInVzZXJuYW1lIjoiWWFzaCBTaW5naCJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4211%2FPower-BI-for-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1302965749192390704&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVdzHKSU0v9Mgz9kwCAFfny0olAAAA">**Power BI Certification**</a>
+
+<a href="https://www.credly.com/badges/73ed61d5-5e98-411f-9d50-1813977f824e/linked_in_profile"><img src="https://github.com/Singhyash9009/Singhyash9009/blob/main/assets/Data_Analytics_Essentials_Badge.jpg" alt="Power BI" width="100"></a>
+
+<a href="https://www.credly.com/badges/73ed61d5-5e98-411f-9d50-1813977f824e/linked_in_profile">**Data Analytics Certification**</a>
+---
 ### :fire: Projects:
 - <a href="https://github.com/Singhyash9009/ML_Project_Student_Perfomance">Student Perfomance Regression Model</a>
 - <a href="https://github.com/Singhyash9009/Web_Summary_App">Web Summary Application</a>
