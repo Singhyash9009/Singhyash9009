@@ -58,7 +58,7 @@
 - <a href="https://github.com/Singhyash9009/Web_Summary_App">Web Summary Application</a>
 - <a href="https://github.com/Singhyash9009/GIT-HUB/blob/main/MINI%20PROJECT/MINI%20PROJECT%20%202%20(CLASSIFICATION%20MODEL)%20YASH%20SINGH.ipynb">House Grade Prediction</a>
 - <a href="https://github.com/Singhyash9009/Digital_Resume_CV">Digital Resume Creater</a>
-- <a href="https://github.com/Singhyash9009/Practice_Interview_Data">Practice and Interview Questions<a/>
+- <a href="https://github.com/Singhyash9009?tab=repositories">For More Such Projects Please Click Here<a/>
 ---
 ### 📄 Dashboards:
 - <a href="https://public.tableau.com/app/profile/yash.singh8622/viz/SuperstoreSalesDashboard_17013505757220/Dashboard?publish=yes">Superstore Sales Dashboard</a>
