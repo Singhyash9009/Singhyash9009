@@ -62,9 +62,9 @@
 ---
 ### 📄 Dashboards:
 - <a href="https://public.tableau.com/app/profile/yash.singh8622/viz/SuperstoreSalesDashboard_17013505757220/Dashboard?publish=yes">Superstore Sales Dashboard</a>
-- <a href="https://app.powerbi.com/groups/me/reports/38afca88-4b6c-46fb-985a-8d85cb366a72/ReportSection?experience=power-bi">HR Analytics Dashboard</a>
 - <a href="https://app.powerbi.com/groups/me/reports/db0db129-6d02-4c7a-90eb-47a2fc25a9d8/ReportSection?experience=power-bi">Google Trends Dashboard</a>
 - <a href="https://app.powerbi.com/groups/me/reports/cb4e9fc1-b702-467a-bb43-afc99b64c9f7/ReportSection?experience=power-bi">Namma Yatri Trips Dashboard</a>
+- <a href="https://app.powerbi.com/groups/me/reports/38afca88-4b6c-46fb-985a-8d85cb366a72/ReportSection?experience=power-bi">HR Analytics Dashboard</a>
 ---
 
 <h3 align="left">Languages and Tools:</h3>
