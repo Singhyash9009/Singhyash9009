@@ -61,10 +61,10 @@
 - <a href="https://github.com/Singhyash9009?tab=repositories">For More Such Projects Please Click Here<a/>
 ---
 ### 📄 Dashboards:
+- <a href="https://github.com/Singhyash9009/Lok-Sabha-Election-2014-2019-Analysis/">Lok Sabha Election Analysis</a>
 - <a href="https://public.tableau.com/app/profile/yash.singh8622/viz/SuperstoreSalesDashboard_17013505757220/Dashboard?publish=yes">Superstore Sales Dashboard</a>
 - <a href="https://github.com/Singhyash9009/Google-Trends-Dashboard">Google Trends Dashboard</a>
 - <a href="https://github.com/Singhyash9009/Namma_Yatri_Trips_Dashboard">Namma Yatri Trips Dashboard</a>
-- <a href="https://app.powerbi.com/groups/me/reports/38afca88-4b6c-46fb-985a-8d85cb366a72/ReportSection?experience=power-bi">HR Analytics Dashboard</a>
 ---
 
 <h3 align="left">Languages and Tools:</h3>
