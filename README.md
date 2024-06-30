@@ -28,7 +28,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Singhyash9009](https://github.com/Singhyash9009?tab=repositories)
 
-- 💬 Ask me about **Pyhton,MySQL,Machine Learning,Tableau,Poweer BI**
+- 💬 Ask me about **Pyhton,MySQL,Machine Learning,Tableau,Power BI**
 
 - 📫 How to reach me **singhyash9009@gmail.com**
 
