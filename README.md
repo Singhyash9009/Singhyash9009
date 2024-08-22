@@ -62,6 +62,7 @@
 ---
 ### 📄 Dashboards:
 - <a href="https://github.com/Singhyash9009/Lok-Sabha-Election-2014-2019-Analysis/">Lok Sabha Election Analysis</a>
+- <a href="https://github.com/Singhyash9009/Blinkit_Dashboard">Blinkit Analysis Dashboard</a>
 - <a href="https://public.tableau.com/app/profile/yash.singh8622/viz/SuperstoreSalesDashboard_17013505757220/Dashboard?publish=yes">Superstore Sales Dashboard</a>
 - <a href="https://github.com/Singhyash9009/Google-Trends-Dashboard">Google Trends Dashboard</a>
 - <a href="https://github.com/Singhyash9009/Namma_Yatri_Trips_Dashboard">Namma Yatri Trips Dashboard</a>
