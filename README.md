@@ -42,7 +42,7 @@
 
 ---
 ### 🎯 Achievements:
-<a href="https://www.hackerrank.com/certificates/12f16dcec5c5"><img src="https://github.com/Singhyash9009/Singhyash9009/blob/main/assets/Power%20BI%20Certificate_page.jpg" alt="Power BI" width="100"></a>
+<a href="https://www.hackerrank.com/certificates/12f16dcec5c5"><img src="https://github.com/Singhyash9009/OLA_UBER_SQL_DATABASE/blob/main/Untitled.png" alt="Power BI" width="100"></a>
 
 <a href="https://www.hackerrank.com/certificates/12f16dcec5c5">**HackerRank SQL Certification**</a>
 
