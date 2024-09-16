@@ -59,6 +59,7 @@
 ### :fire: Projects:
 - <a href="https://github.com/Singhyash9009/Medical_Insurance_Cost">Medical Insurance Cost Prediction</a>
 - <a href="https://github.com/Singhyash9009/Capstone_Amazon_Project">Amazon Sentimental Analysis</a>
+- <a href="https://github.com/Singhyash9009/Customer-Churn-ANN/tree/main">Customer Churn Analysis ANN</a>
 - <a href="https://github.com/Singhyash9009/OLA_UBER_SQL_DATABASE">OLA UBER Namma Yatri SQL Analysis</a>
 - <a href="https://github.com/Singhyash9009/Pizza-Sales/blob/main/README.md">Pizza Sales SQL Analysis</a>
 - <a href="https://github.com/Singhyash9009/Web_Summary_App">Web Summary Application</a>
